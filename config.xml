@@ -49,7 +49,7 @@
         <splash qualifier="port-xhdpi" platform="android" src="www/res/screen/android/drawable-port-xhdpi-screen.png" />
         <splash qualifier="port-xxhdpi" platform="android" src="www/res/screen/android/drawable-port-xxhdpi-screen.png" />
         <splash qualifier="port-xxxhdpi" platform="android" ssrc="www/res/screen/android/drawable-port-xxxhdpi-screen.png" />
-    </platform>
+    
     <platform name="ios">
         <icon height="57" platform="ios" src="www/res/icon/ios/icon.png" width="57" />
         <icon height="114" platform="ios" src="www/res/icon/ios/icon@2x.png" width="114" />
